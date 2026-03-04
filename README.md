@@ -4,7 +4,7 @@ I am a Junior Full Stack Developer at a Malaysia-based ERP product company, wher
 I hold an MS in Data Sciences from IBA, Karachi, where I specialized in Machine Learning, Deep Learning, Probabilistic Reasoning, and Data Engineering. My background blends full-stack engineering with applied AI — from building ETL pipelines with Airflow and developing LLM-assisted OCR systems to reinforcement learning projects and evolutionary data cleaning platforms. I enjoy building scalable systems that sit at the intersection of software engineering, data, and intelligent automation.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923029569956)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musabjamil3@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mja333)
