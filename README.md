@@ -19,7 +19,7 @@ I am currently working at a Malaysia via ERP product company as a Junior Full St
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=MusabbinJamil&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=MusabbinJamil&layout=compact&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MusabbinJamil&icon=0&color=3)](https://visitcount.itsvg.in)
