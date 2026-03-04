@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently working at a Malaysia via ERP product company as a Junior Full Stack Developer. My current stack is a mix of Tornado (Python Based, with XML) and React for frontend and javascript based custom page builder logic. I also have experience with MERN stack, having deployed and fiddled with Node backed apps having a React based frontend. I also have experience working with Flutter for web applications, and tkinter for desktop applications. I have also built my portfolio using SvelteKit and GoLang. I have a masters in Data Science and have mostly worked with AI technologies for that tenure. 
+I am a Junior Full Stack Developer at a Malaysia-based ERP product company, where I work on enterprise-grade Accounts and Stock workflows, eCommerce integrations (Shopee, Lazada, TikTok Shop, Shopify, DHL, SPX Express, NinjaVan), and AI-powered automation including OpenAI-driven sales order generation and probabilistic decision-support systems. My core stack includes Python (Tornado, Django, Flask), React, and JavaScript, with hands-on experience in REST API development, server configuration, and marketplace integrations.
+
+I hold an MS in Data Sciences from IBA, Karachi, where I specialized in Machine Learning, Deep Learning, Probabilistic Reasoning, and Data Engineering. My background blends full-stack engineering with applied AI — from building ETL pipelines with Airflow and developing LLM-assisted OCR systems to reinforcement learning projects and evolutionary data cleaning platforms. I enjoy building scalable systems that sit at the intersection of software engineering, data, and intelligent automation.
 
 
 ## 🌐 Socials:
